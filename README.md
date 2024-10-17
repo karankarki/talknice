@@ -1,2 +1,2 @@
 # talknice
-a mernchat app
+go to master folder
